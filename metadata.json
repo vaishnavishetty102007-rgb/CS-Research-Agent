@@ -1,0 +1,6 @@
+{
+  "name": "CS Research Agent: Paper Parser & Architecture Architect",
+  "description": "Token-efficient academic paper parser that extracts core concepts (< 300 words), renders interactive Mermaid.js system architectures, and maps student resume project extensions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
